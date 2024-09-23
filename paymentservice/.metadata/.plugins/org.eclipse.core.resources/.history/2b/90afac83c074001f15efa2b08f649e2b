@@ -1,0 +1,9 @@
+package com.sample.test;
+
+public class Main {
+public static void main(String[] args) {
+	Employee e1=new Employee("John",23);
+	Employee e2=new Employee("Adam",24);
+	
+}
+}
